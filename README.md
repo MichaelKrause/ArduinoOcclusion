@@ -2,7 +2,7 @@
 The aim of this small project is to control PLATO occlusion googles ( http://www.translucent.ca/ ) with an Arduino Uno and in addition get the ability to transmit and control the status over Ethernet (e.g. to a driving simulator or smartphone).
 
 
-more information, pictures and videos: http://www.lfe.mw.tum.de/en/open-source/arduino-occlusion/
+more information, pictures and videos: http://www.lfe.mw.tum.de/downloads/open-source-tools/arduino-occlusion/
 
 Operation/function:
 The Arduino is connected to the logic input of the wide spread PLATO glasses (western plug) with the Arduino Pins 8 and 9. These control, if the left/right glass of the glasses should close/open.
